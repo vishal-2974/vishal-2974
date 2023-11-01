@@ -1,6 +1,6 @@
 Hello, I'm Vishal Vasistha! 👋
 
-About Me I'm an IT enthusiast passionate about learning, coding, and exploring the realms of technology to create new possibilities. Currently in my third year at Bharati Vidyapeeth College of Engineering, Pune.
+I'm an IT enthusiast passionate about learning, coding, and exploring the realms of technology to create new possibilities. Currently in my third year at Bharati Vidyapeeth College of Engineering, Pune.
 
 🌱 I’m currently learning and honing my skills in various programming languages and technologies.
 
